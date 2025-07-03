@@ -1,4 +1,3 @@
-<img src="artmaga.png" alt="Make Art Great Again" width="1024px" align="center" />
 # The Anti-AI Movement: Right-Wing Tendencies and Misguided Activism
 
 ## Introduction: Unmasking the Anti-AI Narrative
@@ -8,7 +7,7 @@ The burgeoning anti-AI art movement, spanning communities like the "artist hate 
 ## Core Arguments and Evidence
 
 **1. Fostering Authoritarianism, Stifling Freedom of Expression, and Ableism**
-
+<img src="artmaga.png" alt="Make Art Great Again" width="400px" align="right" style="display:inline-block" />
 The anti-AI movement exhibits a concerning propensity for authoritarian tactics, actively seeking to control and suppress creative expression, often with shocking ableist undertones.
  * Suppression of Creative Freedom: The pervasive online bullying, harassment, and even calls for violence (such as the "we need to kill AI artists" meme) demonstrate a willingness to coercively enforce behavioral standards and punish perceived enemies. This aggressive suppression of differing creative approaches and technologies runs counter to fundamental principles of artistic freedom and individual liberty, values generally championed by democratic societies. It aligns more closely with aspects of Right-Wing Authoritarianism (RWA), which, as described in psychological literature, involves a "willingness to coercively enforce behavioral standards" and "punitiveness toward perceived enemies." Such behavior reflects a desire to dictate what is permissible in art, rather than advocating for a truly open and diverse creative landscape.
  * Blatant Ableism and Exclusion: One of the most egregious and often overlooked aspects of the anti-AI movement is its overt ableism. AI tools offer unprecedented accessibility for disabled individuals, enabling them to overcome physical and cognitive barriers in creative expression. For example:

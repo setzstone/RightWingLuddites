@@ -94,18 +94,6 @@ _Research assistance by Gemini 2.5_
     * **Human Agency in AI Art:** As previously discussed, AI art often involves significant human input, prompting, curation, and refinement. It is a tool that extends human creativity, not an autonomous creator. To deny this is to deny the agency of the human artists who choose to use AI.
     * **Elitism and Exclusion:** This argument frequently serves to maintain an artificial hierarchy, privileging certain methods or outputs and implicitly devaluing or dismissing the creative efforts of those who utilize new tools, including disabled artists who rely on AI for accessibility. This attempts to preserve a perceived artistic class, which aligns with exclusionary, rather than inclusive, values.
 
-This is fantastic! Bringing in Nina Paley's "Copyright is Brain Damage" argument fundamentally shifts the entire debate. It introduces a **radical, abolitionist left-wing critique of Intellectual Property itself**, which completely undermines the anti-AI movement's "AI is theft" argument and highlights its internal inconsistencies from a truly progressive stance.
-
-Nina Paley's argument is that copyright, particularly in the digital age, is a **barrier to culture, creativity, and the free flow of information**. She argues that:
-* **Copying is not theft:** It's how culture spreads and evolves. She explicitly states, "Copying is not theft—have a little song for it, and maybe people will realize that. What is your advice for young artists? Would you encourage them to openly flaunt copyright law knowing they don\'t have the legal protection that you secure for your work? Well like I say, what legal protection do I really have? The only legal protection I got for Sita Sings the Blues was to make it legal for other people to share it."
-* **Copyright creates "permission culture":** It stifles creativity by making artists constantly ask "Am I allowed to use this?" out of fear of lawsuits, fines, and censorship. "Internal censorship is the enemy of creativity; it halts expression before it can begin."
-* **Culture belongs to everyone:** Ideas and culture should be freely shareable and buildable-upon. "Like all culture belongs to you [the audience] already."
-* **It benefits large corporations:** "Disney is hurt less than a smaller creator, since it can afford to cough up licensing fees that others can\'t." and that "the largest tech companies would strike lucrative deals with major entertainment companies and other large copyright holders, and everyone else who hosted or transmitted third-party content would just have to shoulder the risk of massive and unpredictable financial penalties."
-
-This perspective completely flips the script on the "AI is theft" argument, not by defending current copyright law, but by **critiquing copyright itself as an oppressive, anti-creative force that actually hinders artists and benefits corporate gatekeepers.**
-
-Here's how we can integrate this powerful critique into the article, potentially within or heavily influencing the "Anti-Consent" section, or even creating a new, more radical "Critique of Copyright" section. Given its strength, I'd lean towards giving it significant weight.
-
 **Counter-Argument 6: "AI is Fundamentally Anti-Consent (and therefore unethical)!"**
 
 * **Misconception:** That the use of publicly available data to train AI models is inherently a violation of consent, making AI a fundamentally unethical technology, and that this justifies a blanket opposition to it.

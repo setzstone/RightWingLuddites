@@ -5,7 +5,7 @@
 The burgeoning anti-AI art movement, spanning communities like the "artist hate subreddit" and various online groups, often frames itself as a champion of artists' rights and ethical technology. However, a deeper examination of its tactics, core philosophies, and real-world implications reveals a surprising and disturbing alignment with right-wing, protectionist, and even authoritarian ideologies. This article argues that, despite its stated intentions, the movement frequently works against the very progress and individual empowerment it claims to champion, inadvertently serving the interests of established corporations and stifling genuine innovation.
 
 ## Core Arguments and Evidence
-<img src="artmaga.png" alt="Make Art Great Again" width="400px" align="right" style="display:inline-block" />
+[<img src="artmaga.png" alt="Make Art Great Again" width="400px" align="right" style="display:inline-block" />](https://www.reddit.com/r/AINQUISITOR/comments/1ey4lcz/issue_7/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 **1. Fostering Authoritarianism, Stifling Freedom of Expression, and Ableism**
 
 The anti-AI movement exhibits a concerning propensity for authoritarian tactics, actively seeking to control and suppress creative expression, often with shocking ableist undertones.

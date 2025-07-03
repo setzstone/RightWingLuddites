@@ -28,7 +28,7 @@ Paradoxically, despite often voicing anti-corporate sentiment, the anti-AI movem
 
 ### **3. Resisting Technological Progress (A Modern Luddism)**
 
-A defining characteristic of the anti-AI movement is its resistance to technological advancement, a stance inherently at odds with a genuinely [progressive worldview](https://en.wikipedia.org/wiki/Progressivism). The _faux outrage_ regarding job displacement mirrors a Luddite mentality that historically opposed disruptive technologies.
+A defining characteristic of the anti-AI movement is its resistance to technological advancement, a stance inherently at odds with a genuinely [progressive worldview](https://en.wikipedia.org/wiki/Progressivism). The _faux outrage_ regarding job displacement mirrors a [Luddite mentality](https://en.wikipedia.org/wiki/Luddite) that historically opposed disruptive technologies.
 While job displacement is a legitimate concern, the progressive response lies not in stifling innovation, but in implementing [robust social safety nets](https://en.wikipedia.org/wiki/Social_safety_net), retraining programs, and advocating for concepts like Universal Basic Income to support those affected by economic shifts. To blame AI for job losses, instead of a societal system that fails to care for its displaced citizens, is to misdirect anger and halt the collective progress of humanity. A truly progressive perspective embraces technological advancement while simultaneously striving for equitable societal adaptation, rather than resisting change itself.
 
 ### **4. Embracing Misinformation and Selective Outrage** 

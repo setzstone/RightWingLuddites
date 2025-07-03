@@ -91,7 +91,7 @@ _Research assistance by Gemini 2.5_
 
 * **Misconception:** That the anti-AI movement's artistic critique (AI lacks soul, true creativity, humanity) is a legitimate, ideologically neutral artistic judgment.
 * **Rebuttal:** While aesthetic judgments are subjective, this argument often devolves into an essentialist, romanticized, and ultimately exclusionary view of creativity.
-    * **Defining "Art":** Throughout history, new artistic mediums (photography, digital art) have faced similar accusations of lacking "soul" or "true artistry" from traditionalists. The very definition of "art" has always evolved with technology and human ingenuity.
+    * **Defining "Art":** Throughout history, new artistic mediums (photography, digital art) have faced [similar accusations](https://daily.jstor.org/when-photography-was-not-art/) of lacking "soul" or "true artistry" from traditionalists. The very definition of "art" has always evolved with technology and human ingenuity.
     * **Human Agency in AI Art:** As previously discussed, AI art often involves significant human input, prompting, curation, and refinement. It is a tool that extends human creativity, not an autonomous creator. To deny this is to deny the agency of the human artists who choose to use AI.
     * **Elitism and Exclusion:** This argument frequently serves to maintain an artificial hierarchy, privileging certain methods or outputs and implicitly devaluing or dismissing the creative efforts of those who utilize new tools, including disabled artists who rely on AI for accessibility. This attempts to preserve a perceived artistic class, which aligns with exclusionary, rather than inclusive, values.
 

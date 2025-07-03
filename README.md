@@ -1,3 +1,4 @@
+<img src="artmaga.png" alt="Make Art Great Again" width="1024px" align="center" />
 # The Anti-AI Movement: Right-Wing Tendencies and Misguided Activism
 
 ## Introduction: Unmasking the Anti-AI Narrative
